@@ -455,7 +455,7 @@ a:hover,
       <!-- END SLIDER CONTENT -->
 
       <!-- BLOG CONTENT -->
-      <b:section id="template" name="megazinebg@v1.1.1" maxwidgets="1">
+      <b:section id="template" name="megazinebg" maxwidgets="1">
 
         <!-- Blog -->
 
