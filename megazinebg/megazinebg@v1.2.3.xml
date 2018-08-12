@@ -634,7 +634,7 @@ a:hover,
                   length: <data:numPost/>, // Cantidad de entradas relacionadas a mostrar
                   snippet: 100, // Cantidad texto para el resumen
                   imgSize: 'w380-h180-p-k-no-nu', // Tamaño imagen
-                  html: "<div class='flexitem xs-50'><div class='item'><div class='item__image'><a href='{url}' title='{title}'><img src='{image}' alt='{title}'/></a><div class='item__inner'><h2 class='item__title'>{title}</h2></div></div><div class='item__date'><time>{time}</time></div></div></div>", //html de los post
+                  html: "<div class='flexitem xs-100 md-50'><div class='item'><div class='item__image'><a href='{url}' title='{title}'><img src='{image}' alt='{title}'/></a><div class='item__inner'><h2 class='item__title'>{title}</h2></div></div><div class='item__date'><time>{time}</time></div></div></div>", //html de los post
                   container: document.getElementById('relatedPost'), // Selector
                   tags: [<b:loop var="label" values="data:post.labels">"<data:label.name/>",</b:loop>] // Etiquetas de prueba
                 }; 
