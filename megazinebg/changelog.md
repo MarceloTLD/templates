@@ -1,5 +1,10 @@
 # Registro de cambios MegazineBG.xml
 
+## Versión 1.2.36
+
+- Se ha agregado soporte para iframes responsive
+
+
 ## Versión 1.2.3
 
 - Se ha reemplazado el script de entradas relacionadas por [wjs-related](https://github.com/zkreations/wjs-related/) (Adaptado para byzeroblogger.com)
