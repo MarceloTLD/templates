@@ -1,0 +1,7 @@
+# Archivo .gitignore
+
+/dist/css/main.css
+/dist/css/normalize.css
+/source
+prepros-6.config
+index.html
