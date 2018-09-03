@@ -3,7 +3,7 @@
 
 ## versión ─ 1.0
 
-> gadget.css es un pequeño archivo css diseñado especialmente como complemento para los gadget por defecto de blogger, dandoles un estilo
+> gadget.css es un pequeño archivo css diseñado especialmente como sustituto para los gadget por defecto de blogger, dandoles un estilo
 diferente y adaptado a las plantillas diseñadas por byzeroblogger.
 
 ### Gadget disponibles
