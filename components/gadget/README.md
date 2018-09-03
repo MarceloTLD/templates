@@ -14,3 +14,4 @@ diferente y adaptado a las plantillas diseñadas por byzeroblogger.
 - Entradas populares
 - Búsqueda
 - Etiquetas (En modo lista y modo nube)
+- Formulario de contacto
